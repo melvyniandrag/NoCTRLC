@@ -2,7 +2,7 @@
 
 The following screenshot was taken [from this article](https://www.linuxjournal.com/content/bash-trap-command)
 
-![Screenshot](images/homework.png)
+![Screenshot](images/homework.PNG)
 
 * Fork this repo
 * Write the bash script I've circled in red.

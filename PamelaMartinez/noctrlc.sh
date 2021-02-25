@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 ctrlc_count=0
 
